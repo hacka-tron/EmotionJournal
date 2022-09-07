@@ -1,0 +1,5 @@
+Create app to track something about my life
+use local harddrive to store files. Maybe json format for some objects and whatnot
+or maybe local db? 
+Emotional wellness app. Create entries each day, do sentiment analysis to see general
+mood over time and give warnings for talking to someone and whatnot
