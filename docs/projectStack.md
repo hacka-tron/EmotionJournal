@@ -38,7 +38,7 @@ translate. Azure has features to migrate local db data to.
 
 -- [Technology] SQL Local DB & Cloud DB.  
  
-## Modularity & other journal support :- 
+## Modularity & External Journal Support :- 
 The novel feature here is the sentiment capturing of journal. That being said, usability
 would be significantly improved if data could be imported from other journals. One option
 could be google keeps, or penzu if data is publically available
