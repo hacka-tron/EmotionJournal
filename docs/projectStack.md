@@ -3,7 +3,7 @@
 ## Frontend :- 
 Needs to be simple and welcomming to use.
 
--- [Technology] React. Very familiar, and I would like to create a project myself. 
+-- [Technology] React Native. Very familiar, and I would like to create a project myself. 
 	This will also extend well for mobile. 
 -- Journal Logic: Track journal entries along with relevant information like date & sentiment
 -- Sentiment of each journal: Will need some display summing up the general sentiment observed by a journal entry
@@ -12,8 +12,9 @@ Needs to be simple and welcomming to use.
 -- Explanation of different sentiments and what they might indicate. This should mainly
 	aim to catch depression, but could be extended to track other things like anxiety & 
 	other mental thigns.
---Use warm welcomming/soothing colors as people comming to this app will likely be in a
-	depressed state. Something as simple as color should be taken into account.  
+-- Use warm welcomming/soothing colors as people comming to this app will likely be in a
+	depressed state. Something as simple as color should be taken into account.
+-- React Native is perfect because it allows native integration for this tool across web, ios and android.  
 
 
 ## Backend :- 
